@@ -9,4 +9,4 @@ Aboutme:
 http://127.0.0.1:3000/aboutme
 
 404 page for non-existant endpoints:
-//http://127.0.0.1:3000/<something>
+//http://127.0.0.1:3000/randomstuff
